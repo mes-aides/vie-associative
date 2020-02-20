@@ -1,3 +1,5 @@
+---
+---
 # Statuts
 
 ## Titre
@@ -9,14 +11,14 @@ Il est fondé entre les adhérent‧e‧s aux présents statuts une association 
 
 ## Mission
 
-Cette association a pour but de lutter contre l'asymétrie d'information (note page wikipédia https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis à vis des règles qui régissent la vie des individus.
+Cette association a pour but de lutter contre [l'asymétrie d'information](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis à vis des règles qui régissent la vie des individus.
 
 Pour cela, l’association met notamment à disposition un simulateur d'aides à destination des particuliers et des personnes qui les accompagnent.
 
 
 ## Siège
 
-Le siège social est fixé à XXX. Il pourra être transféré par simple décision du Bureau.
+Le siège social est fixé au 122 Avenue Simon dans le 19ème arrondissement de Paris. Il pourra être transféré par simple décision du Bureau.
 
 
 ## Durée
@@ -26,7 +28,7 @@ La durée de l’association est illimitée.
 
 ## Adhésion
 
-Est considérée comme membre toute personne physique s’étant acquitté de sa cotisation selon la procédure définie dans le Règlement intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
+Est considérée comme membre toute personne physique s’étant acquittée de sa cotisation selon la procédure définie dans le Règlement intérieur et qui n’est pas soumise à une exclusion consécutive à une radiation.
 
 
 ## Admission initiale
@@ -63,15 +65,20 @@ Les ressources de l’association comprennent :
 
 ## Bureau
 
-L’association est dirigée par un Bureau de X membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
+L’association est dirigée par un Bureau de 3 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
 
-L’élection se fait par la candidature de listes de X membres, décrites par une profession de foi lue lors de l’Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par [jugement majoritaire](#jugement-majoritaire).
+L’élection se fait par la candidature de listes de 3 membres, décrites par une profession de foi lue lors de l’Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par [jugement majoritaire](#jugement-majoritaire).
 
 Le Bureau désigne par [scrutin majoritaire simple](#scrutin-majoritaire) l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l’Assemblée générale.
 
 Les membres sont rééligibles.
 
 En cas de cessation d’activité d’un des membres du Bureau, un·e autre membre de l’association peut être présenté·e à la plus prochaine assemblée générale. Si ce membre n’est pas ratifié au scrutin majoritaire simple, des candidatures individuelles peuvent être également présentées par d’autres membres. La ou le membre est alors élu·e par jugement majoritaire. Le mandat des membres remplaçants prend fin en même temps que celui des autres membres du Bureau.
+
+
+## Réglement intérieur
+
+Un Règlement intérieur peut être établi par le Bureau et modifié par vote majoritaire simple du bureau. Ce Règlement intérieur est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l’administration interne de l’association.
 
 
 ## Assemblée générale (AG)
@@ -121,7 +128,6 @@ Pour le bureau,
 
 <style type="text/css">
   body {
-    font-family: sans-serif;
     counter-reset: article;
   }
 
