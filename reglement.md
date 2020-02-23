@@ -23,4 +23,4 @@ Le bureau est en liaison permanente asynchrone par des moyens numériques et pre
 
 Lorsqu’une mention de rôle de « Président » est nécessaire, par exemple dans des documents contractuels qui ne laissent pas la possibilité de choisir les termes définis dans les statuts, le responsable juridique de l'association peut utiliser cet intitulé.
 
-Les autres rôles peuvent être exercés par tous les membres du bureau.
+De la même manière, d'autres mentions peuvent être utilisées par tous les membres du bureau lorsqu'elles sont rendues nécessaires par exemple pour remplir des documents contractuels.
