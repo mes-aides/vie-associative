@@ -11,9 +11,9 @@ Il est fondé entre les adhérent‧e‧s aux présents statuts une association 
 
 ## Mission
 
-Cette association a pour but de lutter contre [l'asymétrie d'information](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis à vis des règles qui régissent la vie des individus.
+Cette association a pour but de lutter contre [l'asymétrie d'information](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis-à-vis des lois et règlements qui régissent l'attribution des prestations sociales, des aides publiques et des aides parapubliques pour les particuliers.
 
-Pour cela, l’association met notamment à disposition un simulateur d'aides à destination des particuliers et des personnes qui les accompagnent.
+Pour cela, l’association met notamment à disposition un simulateur à destination des particuliers et des personnes qui les accompagnent.
 
 
 ## Siège
@@ -38,7 +38,7 @@ Pour faire partie de l'association, il faut être agréé par le bureau, qui sta
 
 ## Membres et cotisations
 
-Sont membres actifs ceux qui ont pris l'engagement de verser une cotisation annuelle dont le montant est fixé dans le règlement intérieur.
+Sont membres actifs les personnes qui ont été admises par le bureau, à jour de leur cotisation annuelle dont le montant est fixé dans le règlement intérieur, et qui n'ont pas fait l'objet d'une radiation.
 
 Pour pouvoir voter à l'assemblée générale, les membres actifs doivent être à jour dans le paiement de leurs cotisations.
 
@@ -59,7 +59,7 @@ Les ressources de l’association comprennent :
 
 - les cotisations des membres&nbsp;;
 - les recettes de la vente de produits, de services ou de prestations fournies par l'association&nbsp;;
-- les subventions des acteurs publics et
+- les subventions des acteurs publics&nbsp;
 - toute autre ressource qui ne soit pas contraire aux règles en vigueur.
 
 
