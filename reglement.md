@@ -21,6 +21,6 @@ Le bureau se réunit régulièrement, au moins tous les 2 mois.
 
 ## Rôles au sein du bureau
 
-Lors que le rôle de « Président » est nécessaire il est associé au responsable juridique de l'association.
+Lorsqu’une mention de rôle de « Président » est nécessaire, par exemple dans des documents contractuels qui ne laissent pas la possibilité de choisir les termes définis dans les statuts, le responsable juridique de l'association peut utiliser cet intitulé.
 
 Les autres rôles peuvent être exercés par tous les membres du bureau.
