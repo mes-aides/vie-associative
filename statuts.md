@@ -34,7 +34,7 @@ Est considérée comme membre toute personne physique s’étant acquittée de s
 ## Admission initiale
 
 Pour faire partie de l'association, il faut&nsbp;:
-- avoir contribué de façon matérielle aux initiatives menées par l'association et
+- avoir contribué de manière substantielle aux initiatives menées par l'association et
 - être coopté par au moins 2 membres actifs de l'association.
 
 
