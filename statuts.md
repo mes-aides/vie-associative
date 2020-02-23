@@ -87,7 +87,7 @@ L’Assemblée générale comprend tous les membres de l’association.
 
 Deux semaines au moins avant la date fixée, les membres de l’association sont convoqués par le Bureau. L’ordre du jour est indiqué sur les convocations.
 
-Le responsable juridique, assisté des autres membres du Bureau, préside l’Assemblée et expose la situation morale de l’association. Le Bureau rend compte de sa gestion et soumet le bilan financier (bilan, compte de résultat et annexe) à l’approbation de l’assemblée par scrutin majoritaire simple.
+Le responsable juridique, assisté des autres membres du Bureau, préside l’Assemblée et expose la situation morale de l’association. Le Bureau rend compte de sa gestion et soumet le bilan moral et le bilan financier à l’approbation de l’assemblée par scrutin majoritaire simple.
 
 Il procède après épuisement de l’ordre du jour, par vote public, au remplacement des membres sortants. Ne devront être traitées, lors de l’Assemblée générale, que les questions soumises à l’ordre du jour.
 
