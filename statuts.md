@@ -33,14 +33,14 @@ Est considérée comme membre toute personne physique s’étant acquittée de s
 
 ## Admission initiale
 
-Pour faire partie de l'association, il faut être agréé par le bureau, qui statue, lors de chacune de ses réunions, sur les demandes d'admission présentées.
+Pour faire partie de l'association, il faut&nsbp;:
+- avoir contribué de façon matérielle aux initiatives menées par l'association et
+- être coopté par au moins 2 membres actifs de l'association.
 
 
 ## Membres et cotisations
 
 Sont membres actifs les personnes qui ont été admises par le bureau, à jour de leur cotisation annuelle dont le montant est fixé dans le règlement intérieur, et qui n'ont pas fait l'objet d'une radiation.
-
-Pour pouvoir voter à l'assemblée générale, les membres actifs doivent être à jour dans le paiement de leurs cotisations.
 
 
 ## Cessation
@@ -65,7 +65,7 @@ Les ressources de l’association comprennent :
 
 ## Bureau
 
-L’association est dirigée par un Bureau de 3 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
+L’association est dirigée collégialement par un Bureau de 3 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
 
 L’élection se fait par la candidature de listes de 3 membres, décrites par une profession de foi lue lors de l’Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par [jugement majoritaire](#jugement-majoritaire).
 
