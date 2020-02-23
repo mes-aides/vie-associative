@@ -11,9 +11,9 @@ Il est fondé entre les adhérent‧e‧s aux présents statuts une association 
 
 ## Mission
 
-Cette association a pour but de lutter contre [l'asymétrie d'information](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis-à-vis des lois qui régissent l'attribution des prestations sociales.
+Cette association a pour but de lutter contre [l'asymétrie d'information](https://fr.wikipedia.org/wiki/Asym%C3%A9trie_d'information) vis-à-vis des lois et règlements qui régissent l'attribution des prestations sociales, des aides publiques et des aides parapubliques pour les particuliers.
 
-Pour cela, l’association met notamment à disposition un simulateur de prestations sociales à destination des particuliers et des personnes qui les accompagnent.
+Pour cela, l’association met notamment à disposition un simulateur à destination des particuliers et des personnes qui les accompagnent.
 
 
 ## Siège
