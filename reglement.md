@@ -16,7 +16,7 @@ En cas de difficulté particulière, le bureau devra envoyer avant la fin du pre
 
 ## Réunion du bureau
 
-Le bureau se réunit régulièrement, au moins tous les 2 mois.
+Le bureau est en liaison permanente asynchrone par des moyens numériques et prend ses décisions de manière transparente et documentée par des outils en ligne accessibles à tous les adhérent‧e‧s.
 
 
 ## Rôles au sein du bureau
