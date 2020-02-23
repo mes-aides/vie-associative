@@ -10,4 +10,4 @@ Le paiement se fait par le site internet de l’association. Les membres doivent
 
 Sauf difficulté particulière, l'assemblée générale ordinaire se réunit au cours du premier trimestre de chaque année.
 
-En cas de difficulté particulière, le bureau devra envoyer avant la fin du premier trimestre qui fera office de convocation. L'assemblée générale ordinaire devra se réunir avant la fin du deuxième trimestre de l'année.
+En cas de difficulté particulière, le bureau devra envoyer avant la fin du premier trimestre un courriel qui fera office de convocation. L'assemblée générale ordinaire devra se réunir avant la fin du deuxième trimestre de l'année.
