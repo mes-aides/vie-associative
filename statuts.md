@@ -65,11 +65,13 @@ Les ressources de l’association comprennent :
 
 ## Bureau
 
-L’association est dirigée collégialement par un Bureau de 3 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
+L’association est dirigée collégialement par un Bureau de 4 membres, élu pour 2 années par l’Assemblée générale. Les membres du Bureau organisent leur travail selon [les principes agiles](https://agilemanifesto.org/iso/fr/manifesto.html).
 
-L’élection se fait par la candidature de listes de 3 membres, décrites par une profession de foi lue lors de l’Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par [jugement majoritaire](#jugement-majoritaire).
+L’élection se fait par la candidature de listes de 4 membres, décrites par une profession de foi lue lors de l’Assemblée générale. Ces listes sont soumises au vote des adhérent·e·s, qui désignent celle élue par [jugement majoritaire](#jugement-majoritaire).
 
 Le Bureau désigne par [scrutin majoritaire simple](#scrutin-majoritaire) l’un de ses membres comme responsable juridique. Cette nomination est ajoutée au compte-rendu de l’Assemblée générale.
+
+En cas d'égalité lors de votes au sein du Bureau, l'association se conforme au vote du responsable juridique.
 
 Les membres sont rééligibles.
 
