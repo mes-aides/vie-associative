@@ -1,5 +1,7 @@
 ---
 ---
+# Réglement intérieur
+
 ## Cotisation
 
 Le montant de la cotisation annuelle est fixé à 20 €.
