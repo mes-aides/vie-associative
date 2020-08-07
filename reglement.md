@@ -2,6 +2,11 @@
 ---
 # Réglement intérieur
 
+## Adresse du siège
+
+Le siège social est situé au 71 Route de Lyon à Illkirch-Graffenstaden (67400).
+
+
 ## Cotisation
 
 Le montant de la cotisation annuelle est fixé à 20 €.

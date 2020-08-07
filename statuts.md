@@ -18,7 +18,7 @@ Pour cela, l’association met notamment à disposition un simulateur à destina
 
 ## Siège
 
-Le siège social est fixé au 122 Avenue Simon dans le 19ème arrondissement de Paris. Il pourra être transféré par simple décision du Bureau.
+Le siège social est situé dans le département du Bas-Rhin. Il pourra être transféré par simple décision du Bureau qui en informera dans les 15 jours l'ensemble des membres de l'association.
 
 
 ## Durée
