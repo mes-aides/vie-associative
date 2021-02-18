@@ -18,7 +18,7 @@ Pour cela, l’association met notamment à disposition un simulateur à destina
 
 ## Siège
 
-Le siège social est situé dans le département des Alpes-Maritimes. Il pourra être transféré par simple décision du Bureau qui en informera dans les 15 jours l'ensemble des membres de l'association.
+Le siège social est situé à Nice (Alpes-Maritimes). Il pourra être transféré par simple décision du Bureau qui en informera dans les 15 jours l'ensemble des membres de l'association.
 
 
 ## Durée
