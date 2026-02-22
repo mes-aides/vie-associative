@@ -4,8 +4,8 @@ email: equipe@mes-aides.org
 description: >-
   L'association lutte contre l'asymétrie d'information vis à vis des règles qui régissent la vie des individus.
   Pour cela, elle met notamment à disposition un simulateur d'aides à destination des particuliers et des personnes qui les accompagnent.
-baseurl: ""
-url: "https://association.mes-aides.org"
+baseurl: "/vie-associative"
+url: "https://mes-aides.github.io"
 
 theme: minima
 plugins:
