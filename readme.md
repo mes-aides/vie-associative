@@ -11,13 +11,13 @@ Pour cela, l’association met notamment à disposition un [simulateur d'aides](
 
 ## Documents
 
-- [Les statuts](/statuts)
-- [Le réglement intérieur](/reglement)
+- [Les statuts](statuts)
+- [Le réglement intérieur](reglement)
 
 ## Assemblées générales
 
 <ul>
 {% for ag in site.assemblees-generales %}
-  <li><a href="{{ag.url}}">{{ag.title}}</a></li>
+  <li><a href="{{ ag.url | relative_url }}">{{ag.title}}</a></li>
 {% endfor %}
 <ul>
