@@ -1,6 +1,7 @@
 ---
+layout: page
+title: Réglement intérieur
 ---
-# Réglement intérieur
 
 ## Cotisation
 
